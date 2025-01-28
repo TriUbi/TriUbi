@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **I’m both a writer and a programmer, combining my two greatest passions.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me! </h3>
 <p align="left">
 </p>
 
