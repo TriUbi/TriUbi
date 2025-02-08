@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trinidad but you can call me Trini.</h1>
 <h3 align="center">A passionate fullstack developer based in Stockholm</h3>
 
-- 🔭 I’m currently working on **[Wndy AB](https://www.wndy.se/) as a practicant**
+- 🔭 I’m currently working on **[Wndy](https://www.wndy.se/) as a practicant**
 
 - 🌱 I’m constantly **learning and love improving my skills.**
 
